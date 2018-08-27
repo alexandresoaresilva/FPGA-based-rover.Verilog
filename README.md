@@ -11,4 +11,6 @@ Demo
 
 https://www.youtube.com/watch?v=KuQh1xNAlpg
 
-warning: this video was recorded before the final code for turns was finished. Thus, the rover gets stuck from time to time. This is due to the wrong turn logic; the turn logic was corrected later by enforcing that, if one of the side IP sensors (say the left-hand side) saw the conductive tape, it'd keep turning until the IP sensor on the opposite side detected the tape. This in effect made the rover to run smoothly and to always complete the turns. Unfortunately, there's no video recording of the last iteration of the Verilog code running on the FPGA.
+warning: this video was recorded before the final code for turns was finished. Thus, the rover gets stuck from time to time, due to the wrong turn logic. 
+
+The turn logic was corrected later by enforcing that, if one of the side IP sensors (say the left-hand side) saw the conductive tape, it'd keep turning until the IP sensor on the opposite side detected the tape. This in effect made the rover to run smoothly and to always complete the turns. Unfortunately, there's no video recording of the last iteration of the Verilog code running on the FPGA.
