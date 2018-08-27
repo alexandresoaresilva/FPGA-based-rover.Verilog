@@ -9,7 +9,8 @@ With the exception of the current sensing module - which hasn't been tested enou
 
 Demo
 
-https://www.youtube.com/watch?v=KuQh1xNAlpg
+[![](http://img.youtube.com/vi/KuQh1xNAlpg/0.jpg)](http://www.youtube.com/watch?v=KuQh1xNAlpg "Rover Verilog FPGA")
+
 
 warning: this video was recorded before the final code for turns was finished. Thus, the rover gets stuck from time to time, due to the wrong turn logic. 
 
