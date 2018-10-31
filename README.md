@@ -4,7 +4,7 @@ at the Electrical and Computer Engineering Department, Texas Tech University.
 
 Programmed on the Xilinx Vivado environment for the Xilinx Basys3 FPGA.
 TOP module: basysConnections.v
-OBS: some higher-module simulation files might not as expected. 
+OBS: some higher-module simulation files might not work as expected. 
 With the exception of the current sensing module - which hasn't been tested enough - all modules work as expected.
 
 Demo
